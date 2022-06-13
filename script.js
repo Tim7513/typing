@@ -109,7 +109,7 @@ function handleEnd() {
     li2.innerText = `Time: ${multiples} m ${seconds} s`;
     list.appendChild(li2);
 
-    main.style.display = 'none';
+   main.style.display = 'none';
     resultsContainer.style.display = 'block';
 
 
